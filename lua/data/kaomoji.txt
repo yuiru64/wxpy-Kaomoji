@@ -468,3 +468,161 @@ gou	🐶
 xiong	🐻
 tuzi	🐰
 xiongmao	🐼
+
+# ===== 微软拼音词库补充 =====
+
+# --- 开心 / 笑 ---
+happy.keai	(●'◡'●)
+happy.kaixin	o(*￣▽￣*)ブ
+happy.lala	(～￣▽￣)～*
+happy.ye	( •̀ ω •́ )y
+happy.le	(≧▽≦)
+happy.meng	(✿◡‿◡)
+kaixin.lala	(～￣▽￣)～*
+kaixin.ye	( •̀ ω •́ )y
+kaixin.le	(≧▽≦)
+kaixin.meng	(✿◡‿◡)
+laugh.heihei	(●ˇ∀ˇ●)
+laugh.xiao	(^_^)
+laugh.weixiao	(^_^)
+laugh.xixi	(∩_∩)
+xiao.heihei	(●ˇ∀ˇ●)
+xiao.weixiao	(^_^)
+xiao.xixi	(∩_∩)
+
+# --- 爱心 ---
+love.meme	(づ￣ 3￣)づ
+love.aini	(❤ω❤)
+love.xihuan	(♡ω♡)
+love.chicu	(｀ε´)
+ai.meme	(づ￣ 3￣)づ
+ai.aini	(❤ω❤)
+ai.xihuan	(♡ω♡)
+ai.chicu	(｀ε´)
+
+# --- 哭 / 伤心 ---
+cry.shangxin	(T_T)
+cry.wuwu	〒_〒
+cry.tongku	（＞﹏＜）
+cry.ku	(T_T)
+cry.daku	(ㄒoㄒ)
+cry.liulei	(;´ρ)
+ku.wuwu	〒_〒
+ku.tongku	（＞﹏＜）
+ku.daku	(ㄒoㄒ)
+
+# --- 生气 ---
+angry.shengqi	(╯▔皿▔)╯
+angry.heng	(￢︿̫̿￢☆)
+angry.xianzhuo	（╯－＿－）╯╧╧
+angry.buman	（︶︿︶）
+angry.baonu	((｀□′))
+angry.fennu	((￣ε￣＃))
+angry.taoyan	(￣ε￣)
+shengqi.xianzhuo	（╯－＿－）╯╧╧
+shengqi.buman	（︶︿︶）
+shengqi.baonu	((｀□′))
+shengqi.taoyan	(￣ε￣)
+
+# --- 惊讶 ---
+surprise.zenme	…(⊙_⊙;)…
+surprise.jingya	(⊙o⊙)？
+surprise.zhenjing	(ﾟДﾟ)
+surprise.haipa	((；ﾟДﾟ))
+jingya.zenme	…(⊙_⊙;)…
+jingya.zhenjing	(ﾟДﾟ)
+jingya.haipa	((；ﾟДﾟ))
+
+# --- 无语 / 汗 ---
+speechless.meibanfa	╮（╯＿╰）╭
+speechless.kugualian	（╯＾╰）
+speechless.han	(-__-)b
+speechless.wunai	╮(╯▽╰)╭
+speechless.tangqiang	_(:3」∠)_
+speechless.wuyu	(¯､¯)
+speechless.cahan	(￣▽￣")
+speechless.fanyan	(￣^￣)ゞ
+speechless.tanshou	╮(╯-╰)╭
+speechless.jiong	（╯□╰ ）
+wuyu.meibanfa	╮（╯＿╰）╭
+wuyu.kugualian	（╯＾╰）
+wuyu.tangqiang	_(:3」∠)_
+wuyu.cahan	(￣▽￣")
+wuyu.fanyan	(￣^￣)ゞ
+wuyu.tanshou	╮(╯-╰)╭
+wuyu.jiong	（╯□╰ ）
+
+# --- 害羞 ---
+shy.haixiu	(/▽＼=)
+shy.kechi	(￣ω￣;)
+haixiu.kechi	(￣ω￣;)
+
+# --- 困惑 ---
+confused.huaiyi	(→_→)
+confused.yihuo	>_ < ?
+kunhuo.huaiyi	(→_→)
+kunhuo.yihuo	>_ < ?
+
+# --- 鄙视 ---
+despise.bishi	(╬▔皿▔)凸
+
+# --- 骄傲 ---
+proud.chongbai	✪ ω ✪
+proud.deyi	( •̀ ω •́ )✧
+proud.ku	(￣︶￣)
+deyi.chongbai	✪ ω ✪
+deyi.ku	(￣︶￣)
+
+# --- 委屈 ---
+pitiful.bie	＞﹏＜
+pitiful.gui	（╯＿╰）
+weiqu.bie	＞﹏＜
+weiqu.gui	（╯＿╰）
+
+# --- 睡觉 ---
+sleep.kun	(￣o￣) . z Z
+sleep.huhu	(～￣▽￣～)
+sleep.shuijiao	(￣o￣) z Z
+shuijiao.kun	(￣o￣) . z Z
+shuijiao.huhu	(～￣▽￣～)
+
+# --- 点赞 / 加油 ---
+thumbsup.qiang	ヽ(°〇°)ﾉ
+thumbsup.dianzan	(👍≖‿≖)
+thumbsup.guanzhu	(•̀ω•́)✧
+zan.qiang	ヽ(°〇°)ﾉ
+zan.dianzan	(👍≖‿≖)
+zan.guanzhu	(•̀ω•́)✧
+cheer.jiayou	o(^▽^)o
+cheer.shengli	\(^o^)/
+jiayou.shengli	\(^o^)/
+
+# --- 吃货 ---
+eat.ganbei	[]~(￣▽￣)~*
+eat.chifan	(￣～￣)
+chi.chifan	(￣～￣)
+
+# --- 玩闹 ---
+playful.tiaopi	(￣▽￣)~*
+playful.wabi	（・∀・）
+playful.huaji	（￣▽￣）
+wannao.wabi	（・∀・）
+wannao.huaji	（￣▽￣）
+
+# --- 招手 / 再见 ---
+wave.baibai	(^_^)/~
+wave.zhaoshou	(￣▽￣)ノ
+wave.woshou	(^_^)／
+wave.huishou	(￣▽￣)／
+wave.bai	(^_^)/
+zhaoshou.woshou	(^_^)／
+zhaoshou.huishou	(￣▽￣)／
+baibai.bai	(^_^)/
+
+# --- 中性 ---
+neutral.xiaoyanjing	˙ˍ˙
+pingjing.xiaoyanjing	˙ˍ˙
+
+# --- 祝福 ---
+bless.xingyun	(*´∇｀*)
+zhufu.xingyun	(*´∇｀*)
