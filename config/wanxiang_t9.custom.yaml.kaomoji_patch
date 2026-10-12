@@ -1,0 +1,20 @@
+# 颜文字功能配置片段
+# 合并方式：将这些内容追加到你的 wanxiang_t9.custom.yaml 的 patch: 节点下
+# 注意：如果已有 super_symbols/triggers，需要整体替换（不能重复定义）
+
+  # ===== 颜文字功能开始 =====
+  # switches 增加颜文字开关
+  switches/+:
+    - name: kaomoji
+      states: [颜文字关, 颜文字开]
+
+  # 候选区直接出颜文字（输入中文词时自动追加，常驻生效）
+  super_replacer/rules/+:
+    - option: kaomoji
+      mode: append
+      comment_mode: none
+      tags: [abc]
+      prefix: _kk_
+      files:
+        - lua/data/kaomoji_replacer.txt
+  # ===== 颜文字功能结束 =====

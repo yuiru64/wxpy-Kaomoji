@@ -3,10 +3,13 @@
 # 注意：如果已有 super_symbols/triggers，需要整体替换（不能重复定义）
 
   # ===== 颜文字功能开始 =====
+  # switches 增加颜文字开关
+  switches/+:
+    - name: kaomoji
+      states: [颜文字关, 颜文字开]
+
   # super_symbols 新增 kaomoji 类型（前缀 /kk）
-  super_symbols/triggers:
-    - { kind: sym,      exact: /sym,   label: 超级符号, marks: ["?", "/"] }
-    - { kind: emoji,    exact: /emoji, label: 超级表情, marks: ["?", "/"] }
+  super_symbols/triggers/+:
     - { kind: kaomoji,  exact: /kk,    label: 颜文字,   marks: ["?", "/"] }
   super_symbols/data_kaomoji: "lua/data/kaomoji.txt"
 
@@ -16,7 +19,7 @@
 
   # 候选区直接出颜文字（输入中文词时自动追加，常驻生效）
   super_replacer/rules/+:
-    - option: true
+    - option: kaomoji
       mode: append
       comment_mode: none
       tags: [abc]
